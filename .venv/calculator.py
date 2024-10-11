@@ -15,7 +15,7 @@ def check_for_updates():
         latest_version = latest_release['tag_name']
         current_version = "v1.0"
 
-        if latest_version != current_version:  # Сравниваем версии
+        if latest_version != current_version:
             download_url = latest_release['assets'][0]['browser_download_url']
             headers = {'Accept': 'application/octet-stream'}
             download_response = requests.get(download_url, headers=headers)
@@ -27,10 +27,10 @@ def check_for_updates():
             subprocess.Popen(["new_version.exe"])
             sys.exit()
         else:
-            print("Вы используете последнюю версию.")
+            print("Ви використовуєте останню версію :)")
 
     except Exception as e:
-        print("Ошибка при проверке обновлений:", str(e))
+        print("Помилка під час перевірки оновлень:", str(e))
 
 check_for_updates()
 
