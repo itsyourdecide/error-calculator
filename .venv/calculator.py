@@ -1,7 +1,38 @@
 import sympy as sp
 import tkinter as tk
 from tkinter import messagebox, Frame, Entry, Button, Label
+import requests
+import os
+import sys
+import subprocess
+def check_for_updates():
+    repo_url = "https://api.github.com/repos/itsyourdecide/error-calculator/releases/latest"
 
+    try:
+        response = requests.get(repo_url)
+        response.raise_for_status()
+        latest_release = response.json()
+        latest_version = latest_release['tag_name']
+        current_version = "v1.0"
+
+        if latest_version != current_version:  # Сравниваем версии
+            download_url = latest_release['assets'][0]['browser_download_url']
+            headers = {'Accept': 'application/octet-stream'}
+            download_response = requests.get(download_url, headers=headers)
+
+            with open("new_version.exe", "wb") as f:
+                f.write(download_response.content)
+
+
+            subprocess.Popen(["new_version.exe"])
+            sys.exit()
+        else:
+            print("Вы используете последнюю версию.")
+
+    except Exception as e:
+        print("Ошибка при проверке обновлений:", str(e))
+
+check_for_updates()
 
 # Функція для обчислення похибок і часткових похідних
 def calculate_errors(formulas, variables):
