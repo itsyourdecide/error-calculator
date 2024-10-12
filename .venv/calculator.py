@@ -5,6 +5,9 @@ import requests
 import os
 import sys
 import subprocess
+
+current_version = "v1.0"
+
 def check_for_updates():
     repo_url = "https://api.github.com/repos/itsyourdecide/error-calculator/releases/latest"
 
@@ -13,7 +16,6 @@ def check_for_updates():
         response.raise_for_status()
         latest_release = response.json()
         latest_version = latest_release['tag_name']
-        current_version = "v1.0"
 
         if latest_version != current_version:
             download_url = latest_release['assets'][0]['browser_download_url']
@@ -154,7 +156,7 @@ def remove_variable(row_frame):
 
 # Ініціалізація GUI
 root = tk.Tk()
-root.title("Обчислення похибок")
+root.title(f"Обчислення похибок - {current_version}")
 root.geometry("700x400")
 root.configure(bg='#333')
 
