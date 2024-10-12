@@ -500,6 +500,326 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\IPython\\utils\\wildcard.py',
    'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
   ('__future__',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
@@ -539,6 +859,18 @@
   ('_pydecimal',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils._win32',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.tempfile',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\tempfile.py',
    'PYMODULE'),
   ('_sitebuiltins',
    'C:\\Users\\старый '
@@ -1044,6 +1376,42 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
    'PYMODULE'),
+  ('contourpy',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\__init__.py',
+   'PYMODULE'),
+  ('contourpy._version',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\_version.py',
+   'PYMODULE'),
+  ('contourpy.array',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\array.py',
+   'PYMODULE'),
+  ('contourpy.chunk',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\chunk.py',
+   'PYMODULE'),
+  ('contourpy.convert',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\convert.py',
+   'PYMODULE'),
+  ('contourpy.dechunk',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\dechunk.py',
+   'PYMODULE'),
+  ('contourpy.enum_util',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\enum_util.py',
+   'PYMODULE'),
+  ('contourpy.typecheck',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\typecheck.py',
+   'PYMODULE'),
+  ('contourpy.types',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\types.py',
+   'PYMODULE'),
   ('copy',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
@@ -1095,6 +1463,10 @@
   ('curses.has_key',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('cycler',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cycler\\__init__.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\старый '
@@ -1231,6 +1603,46 @@
   ('decorator',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\decorator.py',
+   'PYMODULE'),
+  ('defusedxml',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.ElementTree',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\ElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.cElementTree',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\cElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.common',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\common.py',
+   'PYMODULE'),
+  ('defusedxml.expatbuilder',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\expatbuilder.py',
+   'PYMODULE'),
+  ('defusedxml.expatreader',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\expatreader.py',
+   'PYMODULE'),
+  ('defusedxml.minidom',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\minidom.py',
+   'PYMODULE'),
+  ('defusedxml.pulldom',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\pulldom.py',
+   'PYMODULE'),
+  ('defusedxml.sax',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\sax.py',
+   'PYMODULE'),
+  ('defusedxml.xmlrpc',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\defusedxml\\xmlrpc.py',
    'PYMODULE'),
   ('difflib',
    'C:\\Users\\старый '
@@ -1503,6 +1915,10 @@
   ('filecmp',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\filecmp.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fileinput.py',
    'PYMODULE'),
   ('fnmatch',
    'C:\\Users\\старый '
@@ -2480,6 +2896,14 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jupyter_core\\version.py',
    'PYMODULE'),
+  ('kiwisolver',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kiwisolver\\__init__.py',
+   'PYMODULE'),
+  ('kiwisolver.exceptions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kiwisolver\\exceptions.py',
+   'PYMODULE'),
   ('logging',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
@@ -2504,6 +2928,382 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\markupsafe\\_native.py',
    'PYMODULE'),
+  ('matplotlib',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._afm',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_afm.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_api\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_api\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib._blocking_input',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib._docstring',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_docstring.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_enums.py',
+   'PYMODULE'),
+  ('matplotlib._fontconfig_pattern',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_layoutgrid.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._text_helpers',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_text_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._tight_bbox',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib._tight_layout',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.backends.registry',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\registry.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\cbook.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.layout_engine',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\layout_engine.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.pylab',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\pylab.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triangulation',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tricontour',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trifinder',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triinterpolate',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tripcolor',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triplot',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trirefine',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tritools',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_tritools.py',
+   'PYMODULE'),
+  ('matplotlib.typing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\typing.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
   ('matplotlib_inline',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib_inline\\__init__.py',
@@ -2519,6 +3319,27 @@
   ('mimetypes',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
    'PYMODULE'),
   ('mpmath',
    'C:\\Users\\старый '
@@ -2987,6 +3808,554 @@
   ('numbers',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\version.py',
    'PYMODULE'),
   ('opcode',
    'C:\\Users\\старый '
@@ -5267,6 +6636,54 @@
   ('pygments.util',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('pylab',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pylab.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\util.py',
    'PYMODULE'),
   ('pythoncom',
    'C:\\Users\\старый '
@@ -8465,9 +9882,25 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\constants.py',
    'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
   ('tkinter.messagebox',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\simpledialog.py',
    'PYMODULE'),
   ('token',
    'C:\\Users\\старый '
@@ -8481,6 +9914,14 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\__init__.py',
    'PYMODULE'),
+  ('tornado._locale_data',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\_locale_data.py',
+   'PYMODULE'),
+  ('tornado.autoreload',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\autoreload.py',
+   'PYMODULE'),
   ('tornado.concurrent',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\concurrent.py',
@@ -8493,6 +9934,22 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\gen.py',
    'PYMODULE'),
+  ('tornado.http1connection',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\http1connection.py',
+   'PYMODULE'),
+  ('tornado.httpclient',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\httpclient.py',
+   'PYMODULE'),
+  ('tornado.httpserver',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\httpserver.py',
+   'PYMODULE'),
+  ('tornado.httputil',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\httputil.py',
+   'PYMODULE'),
   ('tornado.ioloop',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\ioloop.py',
@@ -8500,6 +9957,10 @@
   ('tornado.iostream',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\iostream.py',
+   'PYMODULE'),
+  ('tornado.locale',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\locale.py',
    'PYMODULE'),
   ('tornado.locks',
    'C:\\Users\\старый '
@@ -8533,9 +9994,37 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\queues.py',
    'PYMODULE'),
+  ('tornado.routing',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\routing.py',
+   'PYMODULE'),
+  ('tornado.simple_httpclient',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\simple_httpclient.py',
+   'PYMODULE'),
+  ('tornado.tcpclient',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\tcpclient.py',
+   'PYMODULE'),
+  ('tornado.tcpserver',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\tcpserver.py',
+   'PYMODULE'),
+  ('tornado.template',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\template.py',
+   'PYMODULE'),
   ('tornado.util',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\util.py',
+   'PYMODULE'),
+  ('tornado.web',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\web.py',
+   'PYMODULE'),
+  ('tornado.websocket',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\tornado\\websocket.py',
    'PYMODULE'),
   ('trace',
    'C:\\Users\\старый '
@@ -9049,6 +10538,26 @@
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\xmlbuilder.py',
    'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
   ('xml.parsers',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\__init__.py',
@@ -9088,6 +10597,78 @@
   ('xmlrpc.client',
    'C:\\Users\\старый '
    'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc.server',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\server.py',
+   'PYMODULE'),
+  ('yaml',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\__init__.py',
+   'PYMODULE'),
+  ('yaml.composer',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\composer.py',
+   'PYMODULE'),
+  ('yaml.constructor',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\constructor.py',
+   'PYMODULE'),
+  ('yaml.cyaml',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\cyaml.py',
+   'PYMODULE'),
+  ('yaml.dumper',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\dumper.py',
+   'PYMODULE'),
+  ('yaml.emitter',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\emitter.py',
+   'PYMODULE'),
+  ('yaml.error',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\error.py',
+   'PYMODULE'),
+  ('yaml.events',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\events.py',
+   'PYMODULE'),
+  ('yaml.loader',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\loader.py',
+   'PYMODULE'),
+  ('yaml.nodes',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\nodes.py',
+   'PYMODULE'),
+  ('yaml.parser',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\parser.py',
+   'PYMODULE'),
+  ('yaml.reader',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\reader.py',
+   'PYMODULE'),
+  ('yaml.representer',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\representer.py',
+   'PYMODULE'),
+  ('yaml.resolver',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\resolver.py',
+   'PYMODULE'),
+  ('yaml.scanner',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\scanner.py',
+   'PYMODULE'),
+  ('yaml.serializer',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\serializer.py',
+   'PYMODULE'),
+  ('yaml.tokens',
+   'C:\\Users\\старый '
+   'бог\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\tokens.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Users\\старый '
